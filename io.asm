@@ -1,8 +1,6 @@
 
 
 ; Author:  Joseph Houghton
-; Last Modified:  3/11/2023
-; email address:   jojohoughton22@gmail.com
 ; Description:   reads strings of digits from user and displays the numbers, their sum, and their average
 
 
