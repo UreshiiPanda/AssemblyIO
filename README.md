@@ -17,6 +17,7 @@
 
 
 <!-- ![assembly io gif]() -->
+![ass_input_output](https://github.com/UreshiiPanda/AssemblyIO/assets/39992411/ab071f67-4d0e-435c-b9df-b13a6af30f31)
 
 
 
